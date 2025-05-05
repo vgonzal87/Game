@@ -14,6 +14,7 @@ Synopsis (how to call each class):
 	game_test.play(4)
   Call analyzer class
   analyzer_test = Analyzer(game_test)
+  
 API (List of all classes and methods)
   Die class
     Initializer: Die(np.array())
